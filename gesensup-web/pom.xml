@@ -28,6 +28,8 @@
 		<junit.jupiter.version>5.6.2</junit.jupiter.version>
 
 		<sonar.projectKey>moquette78_TEST_3_SONAR_WEB</sonar.projectKey>
+		<sonar.organization>moquette78</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
 
